@@ -1,2 +1,2 @@
 # SpleeterColab
-A Google Colab notebook to perform source separation using Deezer's Spleeter library.
+A Google Colab notebook for performing source separation using Deezer's Spleeter library.
