@@ -1,2 +1,2 @@
-# SpleeterNotebook
-A more user friendly Jupyter notebook for using Deezer's Spleeter library.
+# SpleeterColab
+A Google Colab notebook to perform source separation using Deezer's Spleeter library.
